@@ -1,0 +1,9 @@
+Comando para rodar docker
+
+1 - docker build
+2 - docker-compose up -d
+3 - docker-compose down
+4 - docker-compose build
+
+5 - docker-compose -f <nome do arquivo com a exteção> up -d
+  docker-compose -f docker-compose-dev.yml up -d
